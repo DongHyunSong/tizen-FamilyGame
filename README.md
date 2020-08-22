@@ -4,7 +4,9 @@
  
 # Mini games
 ## JumpJump
+ <img src='./images/jump_jump.jpg' border=0 width=300>
  -
  
-## Egg Catch
+## CatchEgg
+ <img src='./images/catch_eggs.jpg' border=0 width=300>
  - 
