@@ -59,3 +59,17 @@ html, body {
   -o-animation: flickerAnimation 1s infinite;
   animation: flickerAnimation 1s infinite;
 }
+
+.me {
+  display: block;
+  position: absolute;
+  top: 600px;
+  left: 600px;
+}
+
+.larva {
+  display: block;
+  position: absolute;
+  top: 770px;
+  left: 1700px;
+}
